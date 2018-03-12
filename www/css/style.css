@@ -1,0 +1,27 @@
+body {
+
+  font-size: 10pt;
+
+  font-family: Helvetica, sans-serif;
+
+  color: black;
+
+  line-height: 14pt;
+
+  padding-left: 5pt;
+
+  padding-right: 5pt;
+
+  padding-top: 5pt;
+
+}
+
+h1 {
+
+  font: 32pt Helvetica, sans-serif;
+
+  font-weight: bold;
+
+  line-height: 20pt;
+
+}
